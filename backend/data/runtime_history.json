@@ -1011,18 +1011,6 @@
         "focus_state": "recovery",
         "continuity_score": 2,
         "overload_detected": true,
-        "timestamp": "2026-05-15T19:22:42.204229Z"
-    },
-    {
-        "focus_state": "recovery",
-        "continuity_score": 2,
-        "overload_detected": true,
-        "timestamp": "2026-05-15T19:22:42.215327Z"
-    },
-    {
-        "focus_state": "recovery",
-        "continuity_score": 2,
-        "overload_detected": true,
-        "timestamp": "2026-05-15T19:22:42.219925Z"
+        "timestamp": "2026-05-15T19:35:53.902004Z"
     }
 ]
