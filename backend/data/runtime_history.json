@@ -952,5 +952,41 @@
         "continuity_score": 2,
         "overload_detected": true,
         "timestamp": "2026-05-15T17:14:04.107702Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T17:21:52.668776Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T17:21:52.677240Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T17:21:52.687663Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T17:34:39.754952Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T17:34:39.758947Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T17:34:39.767636Z"
     }
 ]
