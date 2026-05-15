@@ -1,0 +1,56 @@
+[
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:15:36.428646"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:15:36.429636"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:15:36.430506"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:35:29.874251"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:35:29.875162"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:35:29.875835"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:35:43.632388"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:35:43.633527"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T08:35:43.634816"
+    }
+]
