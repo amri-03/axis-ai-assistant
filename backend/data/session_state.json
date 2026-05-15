@@ -1,0 +1,8 @@
+{
+    "continuity_score": 2,
+    "overload_detected": true,
+    "fragmentation_level": "high",
+    "inactivity_days": 7,
+    "current_focus_state": "recovery",
+    "escalation_level": "moderate"
+}
