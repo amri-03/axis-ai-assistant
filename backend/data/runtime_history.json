@@ -574,5 +574,23 @@
         "continuity_score": 2,
         "overload_detected": true,
         "timestamp": "2026-05-15T12:43:43.541243Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T12:50:30.157073Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T12:50:30.162513Z"
+    },
+    {
+        "focus_state": "recovery",
+        "continuity_score": 2,
+        "overload_detected": true,
+        "timestamp": "2026-05-15T12:50:30.169112Z"
     }
 ]
